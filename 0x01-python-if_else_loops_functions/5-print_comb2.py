@@ -1,4 +1,6 @@
 #!/usr/bin/python3
-for i in range(10):
-    for j in range(10):
-        print('{}{}'.format(i,j,), end=', ')
+for i in range(100):
+    if i < 10:
+        print('0{}'.format(i), end=', ')
+    else:
+        print(i, end=', ')
