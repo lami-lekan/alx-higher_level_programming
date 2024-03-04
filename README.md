@@ -68,8 +68,4 @@ Expand your knowledge with the following resources:
 
 Contributions to this guide are welcome! If you have insights, corrections, or additional resources to share, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
 Happy coding! 🐍
